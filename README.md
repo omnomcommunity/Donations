@@ -28,3 +28,4 @@ DNzCXTLwBzy7pLiKg67T8xu5WcBzdUqtmX
 
 | Date       | Used Wallet | Amount   | in USD | Description     |
 | ---------- | ----------- | -------- | ------ | --------------- |
+| 03/14/2024 | WDOGE       | 600      | ~$100 | BuyBot Development |

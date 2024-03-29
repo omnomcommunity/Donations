@@ -30,4 +30,4 @@ DNzCXTLwBzy7pLiKg67T8xu5WcBzdUqtmX
 | ---------- | ----------- | -------- | ------ | --------------- |
 | 03/14/2024 | WDOGE       | 600      | ~$100 | BuyBot Development |
 
-| 03/29/2024 | OMNOM       |   1937277967    | ~$299 | DexScreener Profile 
+| 03/29/2024 | OMNOM       |   1937277967    | ~$299 | DexScreener Profile |

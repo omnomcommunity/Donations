@@ -1,11 +1,10 @@
-<a href="https://discord.gg/4KesXdC2cx"><img src="https://img.shields.io/discord/1209470598447767582?label=Discord&logo=Discord&logoColor=white&style=plastic"></a>
 <a href="https://twitter.com/omnomtoken"><img src="https://img.shields.io/twitter/follow/omnomtoken?style=social"></a>
 
 # Donations ❤️
 
 Here you can make a donation or see where the funds went.
 
-Below are the addresses that we have set up to receive donations that will go solely towards development costs and exchange listing fees for Omnom.
+Below are the addresses that we have set up to receive donations that will go solely towards marketing costs and exchange listing fees for Omnom.
 
 ### DOGE  
 
@@ -30,3 +29,4 @@ DNzCXTLwBzy7pLiKg67T8xu5WcBzdUqtmX
 | ---------- | ----------- | -------- | ------ | --------------- |
 | 03/14/2024 | WDOGE       | 600      | ~$100 | BuyBot Development |
 | 03/29/2024 | OMNOM       | 1.9B     | ~$299 |DexScreener Profile |
+| 09/29/2024 | OMNOM       | 4.34B    | ~$180 |    X Premium +     |

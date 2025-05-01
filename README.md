@@ -9,13 +9,13 @@ Below are the addresses that we have set up to receive donations that will go so
 ### DOGE  
 
 ```
-DNzCXTLwBzy7pLiKg67T8xu5WcBzdUqtmX
+NO-LONGER-IN-USE
 ```
 
 ### WDOGE, OMNOM, WWDOGE 
 
 ```
-0x1B813630bF1b0a249eD1D9E8101c6A9d921fA7A6
+NO-LONGER-IN-USE
 ```
 
 
